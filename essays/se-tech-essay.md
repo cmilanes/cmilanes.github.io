@@ -8,28 +8,17 @@ published: true
 labels:
   - Software Engineering
 ---
-## Back to Beginnings  
 
-Prior to this course, I have only had very surface level understanding of Javascript and did not really dive into the intricacies of the language. In truth, I had originally learned the basics of programming in Javascript
-in small exercises like creating simple games to learn how to create functions and the overall flow of coding along with creating simple web pages with HTML and CSS. However, that was years ago and I have not touched the 
-language since. Coming into this course I knew that Javascript was involved, and I was kind of interested to see the language I learned programming in with more experienced eyes. I did have some concern when we were 
-assigned to complete the 111 Javascript exercises and the 29 ES6 exercises on FreeCodeCamp, due to just the sheer number of exercises. However, working through the course it became significantly easier and more 
-interesting as the lessons became progressively more in depth and less similar to the other programming languages I know like C and Python. Overall, I think it was a good introduction to the power that Javascript has and 
-some of the optimizations that ES6 provides.
+<img class="img-fluid" src="../img/programming.png">
 
-## A Familiar Feeling
+## The Technological Spark  
 
-Javascript as a language to me is very interesting as it is pretty simple to pick up as a learning tool, but has a lot of complexity behind it. The process for learning the language itself for me was very similar to other 
-languages I had learned in my previous computer engineering classes such as Java, C, C++, and Python. In particular, it was very similar to my experience with Python especially in the way that it is not a strongly typed 
-language meaning that variables could be of any type, be it a string or an integer. When learning both languages this feature threw me off a bit because of the time I spent learning almost exclusively strongly typed 
-languages. I can see the power and convenience behind this feature, but I find it kind of dangerous to not know what the data type is when a variable or function is declared and how it can lead to errors or confusion. 
-This means it is up to the programmer to truly understand what is going on when using these languages. The hardest part about exercises for me was learning the idiosyncrasies and syntax for functions, especially function 
-destructuring which is something that I had never been exposed to before. However, I do think it is one of the most interesting features that we learned about in the introduction and I hope I will be able to implement 
-this technique more as I get more comfortable with the language.
+Throughout my upbringing, I was almost always interested in technology and how these devices that we take for granted work, from smartphones to computers. As I went through school I also discovered my hobby for participating in Robotics programs such as VEX and FIRST. Participating in these programs allowed me to develop engineering skills such as problem solving, working with specified constraints, and programming along with many soft skills. However, it was in High School that I took my first computer science class, and the real depth of coding and programming was really shown to me. Personally, even though the basics of programming and logical thinking behind the class activities and small projects was a good introduction to what you could do with the skill, I never got the opportunity to make something that involved a more comprehensive use of software engineering such as creating a functional application or website.
 
-## Exercising A Muscle
+## Combining Both Worlds 
 
-I think the concept of athletic software engineering is a very good way to practice the problem solving skills and critical thinking required to solve coding problems. At the time of writing this, I have not experienced 
-an actual in class WOD, but from my experience with the practice WODs it seems that the problems are pretty fair with the amount of time given and were pretty straightforward. Personally, I think that the process of being 
-under pressure and having to apply the knowledge that we recently were exposed to is a good way to remember and actually learn the material. The consistent practice helps exercise our critical thinking and problem solving 
-skills and allows us to code and debug more efficiently. Moreover, I think that the added stress and challenge to make the best time you can is pretty satisfying.
+When it had become time to decide on what major to pursue in college I was torn on what to pick. I had years of experience participating in robotics in which I would be involved in almost every aspect of the process from building and fabricating to electronics and programming. Logically, a lot of my peers had decided to go into mechanical engineering and fields that are closely related to the fabrication aspect of robotics, but I still had a soft spot for programming and computer science. So when it came to selecting a major computer engineering seemed like a good pick in which it still involves developing programming skills, along with the ability to focus on building and designing something physical which I still enjoyed.  As I had progressed through my engineering courses such as EE 260 and EE 361 focusing more on computer hardware and EE 205 focusing more on programming, it gave a pretty good look into what computer engineering is and how the design of software and hardware are fundamentally linked.
+
+## A Plethora of Opportunities
+
+Since this class mainly focuses on software and the development cycle, areas where I do not have much knowledge and experience, I am genuinely enthusiastic about the opportunity to learn. I am looking forward to diving more into the hard programming skills like Javascript, HTML, CSS for web development and also getting more experience with soft skills such as programming with a small team using GitHub. After seeing the power that web development has, I’m looking forward to learning the skills and how to apply them later in my career.
