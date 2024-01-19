@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/First-Logo.png
 title: "First Robotics Competition"
-date: 2024
+date: 2019
 published: true
 labels:
   - Java
