@@ -9,12 +9,12 @@
     "summary": "I am studying for a B.S. in Computer Engineering in the College of Engineering at the University of Hawaii at Manoa. I expect to graduate in Spring, 2025.",
     "location": { "address": "", "postalCode": "96782", "city": "Pearl City", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "cmilanes", "url": "http://github.com/cmilnaes" },
+      { "network": "github", "username": "cmilanes", "url": "http://github.com/cmilanes" },
       { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/cristian-milanes-833420271" },
     ]
   },
   "interests": [
-    { "name": "Cybersecurity" },
+    { "name": "Cybersecurity" },an
     { "name": "Software Engineering" },
     { "name": "Quantum Computing" },
     { "name": "Robotics" },
