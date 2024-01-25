@@ -57,30 +57,16 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Firmware Team Member for Smart Campus Energy Lab",
+      "website": "https://wiki.scel-hawaii.org/doku.php",
+      "startDate": "2023",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Work with a group of engineering students to develop weatherboxes which are used to gather meteorological data to train forecasting models and optimize renewable energy efficiency",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Maintain existing software and develop quality of life changes for the system",
+        "Assist hardware teams with technical issues"
       ]
     },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
   ],
   "awards": [
     {
@@ -90,10 +76,10 @@
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Best in Category",
+      "date": "2021",
+      "awarder": "Hawaii State Science Engineering Fair Central District",
+      "summary": "My team won best in category for the HSSEF with an engineering project that would assist the visually impaired when navigating their surroundings"
     }
   ],
   "references": [
