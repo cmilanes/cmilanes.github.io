@@ -10,7 +10,7 @@ labels:
   - StackOverflow
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions.jpg">
 
 ## What’s a smart question?
 Effective communication is one of the most fundamental skills imperative for software engineers to learn. Furthermore, the art of posing 'intelligent' or ‘good’ questions is a cornerstone of professional communication. 
