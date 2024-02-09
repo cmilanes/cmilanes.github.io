@@ -11,7 +11,7 @@ labels:
   - ESLint
 ---
 
-<img width="300px" class="img-fluid" src="../img/ESLint.png">
+<img width="300px" class="center" src="../img/ESLint.png">
 
 ## No standards no problems
 
