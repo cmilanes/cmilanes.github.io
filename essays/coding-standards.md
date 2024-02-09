@@ -7,9 +7,11 @@ date: 2024-02-08
 published: true
 labels:
   - Software Engineering
+  - Coding Standards 
+  - ESLint
 ---
 
-<img class="img-fluid" src="../img/programming.png">
+<img class="img-fluid" src="../img/ESLint.png">
 
 ## No standards no problems
 
