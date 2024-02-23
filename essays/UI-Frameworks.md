@@ -25,4 +25,8 @@ Before learning how to use Bootstrap, all of the web pages were made using pure 
 In Bootstrap, assigning an element the navbar class simplified the tedious formatting and streamlined the process significantly. However, mastering the art of utilizing Bootstrap effectively was not without some effort. Navigating the learning curve involved not only discovering the available functions but also figuring out the most fitting ones for my specific development needs.
 
 ## Streamlining Development
-Below is an an examples of using Bootstrap to create a webpage and the assiciated stylesheet
+Below is an an examples of using Bootstrap to create a webpage and the assiciated stylesheet. The overall stylesheet is very streamlined for a site with a good amount of functionality such as a navigation bar and dropdown menus. 
+
+<center><img width="1200px" class="center" src="../img/Islandsnowpage.PNG"></center>
+<center><img width="1200px" class="center" src="../img/islandsnowcss.PNG"></center>
+
