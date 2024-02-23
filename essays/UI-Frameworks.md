@@ -11,7 +11,7 @@ labels:
   - Bootstrap
 ---
 
-<center><img width="300px" class="center" src="../img/UI-frameworks.png"></center>
+<center><img width="800px" class="center" src="../img/UI-frameworks.png"></center>
 
 ## What is a UI-Framework 
 
