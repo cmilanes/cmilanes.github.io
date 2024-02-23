@@ -15,8 +15,8 @@ labels:
 
 ## What is a UI-Framework 
 
-A UI (User Interface) framework serves as a toolbox for developers, equipped with pre-built code libraries, components, and tools. Its purpose is to empower developers in crafting uniform and visually appealing user interfaces for software applications. By offering standardized methods for UI design and implementation, these frameworks streamline the development process and ensure a cohesive look and feel across various sections of an application or even different applications.
-Within these UI frameworks, there is an assortment of components such as buttons, forms, navigation menus, sliders, and other interactive elements which also they often have pre-designed layouts, themes, and stylesheets. This feature enables developers to swiftly tailor the appearance of their applications. Prominent examples of UI frameworks include Bootstrap, Material-UI, Foundation, Semantic UI, and UIKit.
+A UI (User Interface) framework serves as a toolbox for developers, equipped with pre-built code libraries, components, and tools. Its purpose is to assist developers in creating uniform and visually appealing user interfaces. By offering standardized methods for UI design and implementation, these frameworks help streamline the development process and ensure a consistent look and feel across various sections of an application or even different applications.
+Within these UI frameworks, there is an assortment of components such as buttons, forms, navigation menus, sliders, and other interactive elements which also they often have pre-designed layouts, themes, and stylesheets. This feature enables developers to quickly tailor the appearance of their applications. Prominent examples of UI frameworks include Bootstrap, Material-UI, Foundation, Semantic UI, and UIKit.
 
 ## Using Bootstrap5
 
