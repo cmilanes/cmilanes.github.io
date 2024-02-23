@@ -28,5 +28,5 @@ In Bootstrap, assigning an element the navbar class simplified the tedious forma
 Below is an an examples of using Bootstrap to create a webpage and the assiciated stylesheet. The overall stylesheet is very streamlined for a site with a good amount of functionality such as a navigation bar and dropdown menus. 
 
 <center><img width="1200px" class="center" src="../img/Islandsnowpage.PNG"></center>
-<center><img width="1200px" class="center" src="../img/islandsnowcss.PNG"></center>
+<center><img width="500px" class="center" src="../img/islandsnowcss.PNG"></center>
 
