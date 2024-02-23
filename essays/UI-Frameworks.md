@@ -11,16 +11,18 @@ labels:
   - Bootstrap
 ---
 
-<center><img width="800px" class="center" src="../img/UI-frameworks.png"></center>
+<center><img width="1200px" class="center" src="../img/UI-frameworks.png"></center>
 
 ## What is a UI-Framework 
 
-Throughout my undergraduate courses as a computer engineering student, I have had to write and work with a lot of different people with different opinions on how code should look for the same programming assignment. The lack of any baseline for a standard meant that this code ranged in readability and increased how difficult it was to debug. For example, someone could write C code with as minimal of indentation and spacing as possible, but it makes it extremely difficult to read. Due to everyone having a different style, it made collaboration a bit more tricky as the amount of time it would take to understand another person’s assignment would be based on how similar their styles were to mine.
+A UI (User Interface) framework serves as a toolbox for developers, equipped with pre-built code libraries, components, and tools. Its purpose is to empower developers in crafting uniform and visually appealing user interfaces for software applications. By offering standardized methods for UI design and implementation, these frameworks streamline the development process and ensure a cohesive look and feel across various sections of an application or even different applications.
+Within these UI frameworks, there is an assortment of components such as buttons, forms, navigation menus, sliders, and other interactive elements which also they often have pre-designed layouts, themes, and stylesheets. This feature enables developers to swiftly tailor the appearance of their applications. Prominent examples of UI frameworks include Bootstrap, Material-UI, Foundation, Semantic UI, and UIKit.
 
-## Using Bootstrap
+## Using Bootstrap5
 
-The importance of coding standards varies based on the type of project that is being worked on. In large companies with large groups of software developers, having coding standards is vital. Without standards each developer could write and push code in their own style, causing the overall repository to become a mess, increasing the time it would take to analyze it, and increasing the overall time it takes to complete the project. On the other hand, for smaller projects like a school group project or experimental and toy programs, coding standards don’t have to be enforced as strictly. There should be a baseline standard for these projects, but it is not as imperative as in large scale development.
+Before learning how to use Bootstrap, all of the web pages were made using pure HTML and CSS. Consequently, the CSS stylesheets and primary index files became riddled with numerous details like padding, margins, and a plethora of classes for elements like navbars, headers, and footers. However, once implementing Bootstrap, tasks like navbar creation, which demanded a lot of coding, now have become effortlessly simple and accomplished in a few lines of code.
 
-## Bootstrap vs Raw CSS
+In Bootstrap, assigning an element the navbar class simplified the tedious formatting and streamlined the process significantly. However, mastering the art of utilizing Bootstrap effectively was not without some effort. Navigating the learning curve involved not only discovering the available functions but also figuring out the most fitting ones for my specific development needs.
 
-Before using ESLint, my programs were written in whatever way I felt was the most readable and made the most sense to me. Once trying ESLint, being conditioned to follow the linter’s strict rules was somewhat difficult for me because the general format is different to how I would normally write it. For example, one of the standards in ESLint that I had a hard time getting used to was the need to place spacing in between the parentheses of an argument in an if statement. I personally exclude this space, but ESLint will throw an error if it exists. Overall, I do believe that ESLint is a good tool to enforce good programming practices that lead to better, more readable code.
+## Streamlining Development
+Below is an an examples of using Bootstrap to create a webpage and the assiciated stylesheet
