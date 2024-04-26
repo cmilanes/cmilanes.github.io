@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "UI Frameworks: The right tool for the job"
+title: "Coding Choreography"
 # All dates must be YYYY-MM-DD format!
 date: 2024-04-25
 published: true
@@ -10,22 +10,14 @@ labels:
   - Programming
 ---
 
-<center><img width="1200px" class="center" src="../img/UI-frameworks.png"></center>
+<center><img width="1200px" class="center" src="../img/Choreo.jpg"></center>
 
-## What is a UI-Framework 
+## From Choreography to Code
 
-A UI (User Interface) framework serves as a toolbox for developers, equipped with pre-built code libraries, components, and tools. Its purpose is to assist developers in creating uniform and visually appealing user interfaces. By offering standardized methods for UI design and implementation, these frameworks help streamline the development process and ensure a consistent look and feel across various sections of an application or even different applications.
-Within these UI frameworks, there is an assortment of components such as buttons, forms, navigation menus, sliders, and other interactive elements which also they often have pre-designed layouts, themes, and stylesheets. This feature enables developers to quickly tailor the appearance of their applications. Prominent examples of UI frameworks include Bootstrap, Material-UI, Foundation, Semantic UI, and UIKit.
+Design patterns in software development can be likened to the intricate steps of a well-choreographed dance, guiding developers through the complexities of designing robust solutions to common problems. Similar to how a choreographer orchestrates movements to create a elegant performance, design patterns choreograph the interactions between software components, ensuring sophistication, efficiency, and maintainability.
 
-## Using Bootstrap5
+In the realm of programming, design patterns act as the choreographer's notebook, providing developers with structured approaches to take on various design challenges. A good example of this is creational design patterns which lay the foundation for software, just like how fundamental dance steps that establish the structure of a performance. One example is the Singleton pattern, like a soloist taking center stage, ensures that there is only one instance of a class therefore minimizing points of failure and simplifying resource management.
 
-Before learning how to use Bootstrap, all of the web pages were made using pure HTML and CSS. Consequently, the CSS stylesheets and primary index files became riddled with numerous details like padding, margins, and a plethora of classes for elements like navbars, headers, and footers. However, once implementing Bootstrap, tasks like navbar creation, which demanded a lot of coding, now have become effortlessly simple and accomplished in a few lines of code.
+In many of the software projects in this class the Observer design pattern is utililzed. The Observer design pattern is a behavioral pattern that facilitates communication between objects in a loosely coupled manner and is used when one object, known as the subject, needs to notify a list of dependent objects, called observers, of any state changes, so they can react accordingly. For example, in collection classes in many of the webpages to manage data.
 
-In Bootstrap, assigning an element the navbar class simplified the tedious formatting and streamlined the process significantly. However, mastering the art of utilizing Bootstrap effectively was not without some effort. Navigating the learning curve involved not only discovering the available functions but also figuring out the most fitting ones for my specific development needs.
-
-## Streamlining Development
-Below is an an examples of using Bootstrap to create a webpage and the assiciated stylesheet. The overall stylesheet is very streamlined for a site with a good amount of functionality such as a navigation bar and dropdown menus. 
-
-<center><img width="1200px" class="center" src="../img/Islandsnowpage.PNG"></center>
-<center><img width="500px" class="center" src="../img/islandsnowcss.PNG"></center>
-
+In conclusion, within the choreography of software development, it becomes clear that design patterns are not just abstract concepts; they are the guiding principles that bring order and structure to the development process.
