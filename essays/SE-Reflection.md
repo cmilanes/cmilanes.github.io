@@ -9,7 +9,7 @@ labels:
   - Software Engineering
 ---
 
-<center><img width="1200px" class="center" src="../img/AIpic.jpg"></center>
+<center><img width="1200px" class="center" src="..\img\Software-Engineering.png"></center>
 
 # Semester Recap
 
