@@ -15,7 +15,7 @@ labels:
 summary: "An application that helps clubs outreach to interested students"
 ---
 <p align="center">
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img class="img-fluid" src="../img/LandingPageMcc.png">
 </p>
 
 # Manoa Club Connect
