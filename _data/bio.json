@@ -10,7 +10,7 @@
     "location": { "address": "", "postalCode": "96782", "city": "Pearl City", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "cmilanes", "url": "http://github.com/cmilanes" },
-      { "network": "linkedin", "username": "Cristian Milanes", "url": "http://linkedin.com/in/cristian-milanes-833420271" },
+      { "network": "linkedin", "username": "Cristian Milanes", "url": "http://linkedin.com/in/cristian-milanes-833420271" }
     ]
   },
   "interests": [
@@ -23,11 +23,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "Posix C", "C++", "Java", "Python", "System Verilog", "Bash" ]
+      "keywords": [ "Posix C", "C++", "Java", "JavaScript", "Python", "System Verilog", "x86 Assembly", "Bash", "React", "Meteor"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Windows", "ArchLinux", "Git/GitHub" ]
+      "keywords": [ "Windows", "ArchLinux", "Git/GitHub", "Ghidra", "GDB"]
     }
   ],
   "education": [
@@ -37,8 +37,7 @@
       "studyType": "B.S.",
       "startDate": "2021-08-20",
       "endDate": "Present",
-      "courses": ["Discrete Mathematics for Engineers, Digital Systems and Computer Design, Object-Oriented Programming, Basic Circuit Analysis 1 and 2, Engineering Electromagnetics, Linear Algebra and Machine Learning, Data Strucures and Algorithms"
-      ]
+      "courses": ["Software Reverse Engineering", "Data Strucures and Algorithms", "Digital Systems and Computer Design", "Object-Oriented Programming", "Software Engineering 1", "Engineering Electromagnetics", "Microelectronics", "Linear Algebra and Machine Learning", "Discrete Mathematics for Engineers", "Software Engineering 1"]
     }
   ],
   "work": [
@@ -53,20 +52,20 @@
         "Provide customer service and maintain front end store function",
         "Prepare and work collaboratively to fulfill food orders and under pressure"
       ]
-    },
+    }
   ],
   "volunteer": [
     {
       "organization": "Firmware Team Member, Smart Campus Energy Lab",
       "website": "https://wiki.scel-hawaii.org/doku.php",
-      "startDate": "2023",
-      "endDate": "Present",
+      "startDate": "January 2023",
+      "endDate": "May 2024",
       "summary": "Work with a group of engineering students to develop weatherboxes which are used to gather meteorological data to train forecasting models and optimize renewable energy efficiency",
       "highlights": [
         "Maintain existing software and develop quality of life changes for the system",
         "Assist hardware teams with technical issues"
       ]
-    },
+    }
   ],
   "awards": [
     {
