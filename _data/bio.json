@@ -54,12 +54,12 @@
       ]
     }
   ],
-  "activities": [
+  "volunteer": [
     {
       "organization": "Firmware Team Member, Smart Campus Energy Lab",
       "website": "https://wiki.scel-hawaii.org/doku.php",
-      "startDate": "January 2023",
-      "endDate": "May 2024",
+      "startDate": "2023-01-21",
+      "endDate": "2025-05-08",
       "summary": "Work with a group of engineering students to develop weatherboxes which are used to gather meteorological data to train forecasting models and optimize renewable energy efficiency",
       "highlights": [
         "Maintain existing software and develop quality of life changes for the system",
