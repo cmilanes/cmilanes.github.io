@@ -40,7 +40,7 @@
       "courses": ["Software Reverse Engineering", "Data Strucures and Algorithms", "Digital Systems and Computer Design", "Object-Oriented Programming", "Software Engineering 1", "Engineering Electromagnetics", "Microelectronics", "Linear Algebra and Machine Learning", "Discrete Mathematics for Engineers"]
     }
   ],
-  "Activities": [
+  "work": [
     {
       "company": "B.B.Q Chicken Aiea",
       "position": "Cashier and Kitchen Worker",
@@ -54,7 +54,7 @@
       ]
     }
   ],
-  "volunteer": [
+  "activities": [
     {
       "organization": "Firmware Team Member, Smart Campus Energy Lab",
       "website": "https://wiki.scel-hawaii.org/doku.php",
